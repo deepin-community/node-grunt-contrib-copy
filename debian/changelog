@@ -1,3 +1,11 @@
+node-grunt-contrib-copy (1.0.0-5) unstable; urgency=medium
+
+  * Team upload
+  * Update standards version to 4.6.1, no changes needed.
+  * Enable __proto__ in test, needed here for pkg-js-autopkgtest 0.15
+
+ -- Yadd <yadd@debian.org>  Mon, 12 Sep 2022 11:49:32 +0200
+
 node-grunt-contrib-copy (1.0.0-4) unstable; urgency=medium
 
   * Team upload
